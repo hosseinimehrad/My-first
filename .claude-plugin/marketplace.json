@@ -1,0 +1,11 @@
+{
+  "name": "my-first-marketplace",
+  "owner": { "name": "hosseinimehrad" },
+  "plugins": [
+    {
+      "name": "salam-plugin",
+      "source": "./plugins/salam-plugin",
+      "description": "پلاگین تمرینی: خوش‌آمدگویی فارسی و خلاصهٔ پروژه"
+    }
+  ]
+}

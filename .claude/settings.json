@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "my-first-marketplace": {
+      "source": { "source": "github", "repo": "hosseinimehrad/My-first" }
+    }
+  },
+  "enabledPlugins": {
+    "salam-plugin@my-first-marketplace": true
+  }
+}
